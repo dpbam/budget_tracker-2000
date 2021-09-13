@@ -25,3 +25,12 @@ Run npm init, then npm install to get all of the necessary packages. Make sure t
 No contributions welcome yet. Check back in late Fall 2021
 
 ## Challenges
+
+- Had a bit of trouble figuring out what to put in the manifest.json.
+- Didn't understand what to put in service-worker.js for the FILES_TO_CACHE array.
+- Needed to reach out to ASKBCS and my regular coding study group for help with the above.
+- Had to review module 18.5 for help with MongoDB and setting up my database there.
+
+## Questions
+
+Check my GitHub at https://github.com/dpbam
