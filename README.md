@@ -30,6 +30,7 @@ No contributions welcome yet. Check back in late Fall 2021
 - Didn't understand what to put in service-worker.js for the FILES_TO_CACHE array.
 - Needed to reach out to ASKBCS and my regular coding study group for help with the above.
 - Had to review module 18.5 for help with MongoDB and setting up my database there.
+- Had difficulty deploying to Heroku and using the correct password in my .env
 
 ## Questions
 
